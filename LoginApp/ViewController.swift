@@ -12,15 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        print("main repo")
-        print("second repo")
-        print("third repo")
-        print("third repo")
-        print("third repo")
-        print("third repo")
-        print("ddddd repo")
-        print("ddddd repo")
-        print("ddddd repo")
+    print("saeed")
     }
 
 
